@@ -9,7 +9,7 @@ package namaAnanda;
  *
  * @author User
  */
-public class hurufN {
+public class hurufN2 {
     public static void main(String[] args){
   
         int sp;
@@ -66,4 +66,5 @@ public class hurufN {
         }
         System.out.println("");//baris5
     }
+}
 }
